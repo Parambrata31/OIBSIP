@@ -2,7 +2,7 @@ This task is a tribute page dedicated to Netaji Subhas Chandra Bose, a prominent
 
 # Frontend Development
 HTML (index.html)
-The HTML file structures the content of the tribute page, including text, images, and interactive elements.
+The HTML file structures the content of the tribute page, including text, images, and interactive elements,
 CSS (styles.css)
 The CSS file styles the tribute page, including layout, typography, colors, and other visual elements.
 
