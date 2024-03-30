@@ -5,3 +5,4 @@ Welcome to the Web Development Virtual Internship! This internship is designed t
 HTML: Markup language for creating the structure of web pages.
 CSS: Styling language for designing the layout and appearance of web pages.
 JavaScript: Programming language for adding interactivity and dynamic behavior to web pages.
+VS Code: Code editor for debugging, task running and version control
