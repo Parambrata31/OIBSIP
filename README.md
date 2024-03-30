@@ -1,4 +1,4 @@
-Welcome to the Web Development Virtual Internship! This internship is designed to give hands-on experience with HTML, CSS, and JavaScript by working on four tasks: a calculator, a to-do list, a tribute page, and a login authentication page. These projects will help to gain practical skills in front-end web development and enhance the understanding of fundamental web technologies.
+Welcome to the Web Development Virtual Internship offered by Oasis Infobyte! This internship is designed to give hands-on experience with HTML, CSS, and JavaScript by working on four tasks: a calculator, a to-do list, a tribute page, and a login authentication page. These projects will help to gain practical skills in front-end web development and enhance the understanding of fundamental web technologies.
 
 # Technologies Used:
 
